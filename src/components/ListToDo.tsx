@@ -1,5 +1,5 @@
 import { useEffect, useState } from 'react';
-import TodoCard from './components/TodoCard';
+import TodoCard from './TodoCard';
 
 function ListToDo(props:any) {
   const {list, setList} = props;

@@ -60,7 +60,7 @@ function AddToDo(props:any) {
         </Button>
     </div>
     {showDescription && <TextField
-        className='my-[1rem] w-[40rem] border-1 border-[#fff]'
+        className='my-[1rem] w-[45rem] border-1 border-[#fff]'
         id="outlined-multiline-flexible"
         label="Description"
         multiline
